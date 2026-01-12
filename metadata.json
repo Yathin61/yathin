@@ -1,0 +1,7 @@
+{
+  "name": "Copy of FaceGuard AI Attendance",
+  "description": "An intelligent face recognition attendance system for identification and Excel for reporting. Features real-time detection, student enrollment, and automated sheet generation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
